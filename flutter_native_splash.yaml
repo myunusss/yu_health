@@ -1,0 +1,16 @@
+flutter_native_splash:
+  
+  # flutter pub run flutter_native_splash:create
+
+  color: "#ffffff"
+  image: assets/images/yu_health_logo.png
+
+  color_dark: "#ffffff"
+  image_dark: assets/images/yu_health_logo.png
+  
+  android_12:
+    image: assets/images/yu_health_logo_12.png
+    color: "#ffffff"
+
+    image_dark: assets/images/yu_health_logo_12.png
+    color_dark: "#ffffff"
