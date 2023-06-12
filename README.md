@@ -1,16 +1,29 @@
 # yu_health
 
-A new Flutter project.
+Aplikasi Yu Health. Dibuat menggunakan framework Flutter
 
-## Getting Started
+## Capture
 
-This project is a starting point for a Flutter application.
+Login
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](https://github.com/myunusss/yu_health/blob/master/capture/login.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Register
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/myunusss/yu_health/blob/master/capture/register.png?raw=true)
+
+Home
+
+![alt text](https://github.com/myunusss/yu_health/blob/master/capture/home.png?raw=true)
+
+Klinik
+
+![alt text](https://github.com/myunusss/yu_health/blob/master/capture/klinik.png?raw=true)
+
+RS
+
+![alt text](https://github.com/myunusss/yu_health/blob/master/capture/rs.png?raw=true)
+
+Profile
+
+![alt text](https://github.com/myunusss/yu_health/blob/master/capture/profile.png?raw=true)
